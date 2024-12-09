@@ -30,7 +30,7 @@ body {
   background-image: url("../img/winter-flowers.jpg");
   background-size: cover;
   background-position: center;
-  filter: grayscale();
+  
 }
 
 .hero {
